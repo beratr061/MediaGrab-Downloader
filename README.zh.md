@@ -10,8 +10,9 @@
 
 一个使用 Python、Tkinter 和 yt-dlp 开发的多平台、多格式的视频/音频下载应用程序。
 
-![应用程序截图](https://i.imgur.com/your-screenshot-url.png)
-_您可以在此处上传您的程序截图并放置链接。_
+## 截图
+![主界面](https://i.imgur.com/rYopdt1.png)
+![支持的平台](https://i.imgur.com/4uzInzr.png)
 
 ## 如何使用
 
