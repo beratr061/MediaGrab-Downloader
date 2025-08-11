@@ -10,8 +10,9 @@
 
 A multi-platform and multi-format video/audio downloading application developed with Python, Tkinter, and yt-dlp.
 
-![Application Screenshot](https://i.imgur.com/your-screenshot-url.png)
-_You can upload a screenshot of your program and place the link here._
+## Screenshots
+![Main Interface](https://i.imgur.com/rYopdt1.png)
+![Supported Platforms](https://i.imgur.com/4uzInzr.png)
 
 ## How to Use
 
