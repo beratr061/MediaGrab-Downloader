@@ -6,37 +6,37 @@
 <a href="README.zh.md"><img src="https://flagcdn.com/w20/cn.png" alt="中文"></a>
 </p>
 
-# MediaGrab v1.0 - Gelişmiş Video ve Ses İndirici
+# MediaGrab v1.0 - Advanced Video & Audio Downloader
 
-Python, Tkinter ve yt-dlp kullanılarak geliştirilmiş, çok platformlu ve çok formatlı bir video/ses indirme uygulamasıdır.
+A multi-platform and multi-format video/audio downloading application developed with Python, Tkinter, and yt-dlp.
 
-![Uygulama Ekran Görüntüsü](https://i.imgur.com/your-screenshot-url.png)
-_Buraya programının bir ekran görüntüsünü yükleyip linkini koyabilirsin._
+![Application Screenshot](https://i.imgur.com/your-screenshot-url.png)
+_You can upload a screenshot of your program and place the link here._
 
-## Kullanım
+## How to Use
 
-1.  **Linki Yapıştır:** İndirmek istediğiniz video veya müziğin linkini "Video URL'si" kutusuna yapıştırın.
-2.  **Seçenek Belirle:** Nasıl indirmek istediğinizi seçin (Video + Ses, Sadece Ses vb.).
-3.  **İndir'e Tıkla:** "İndir" butonuna basın ve işlemin tamamlanmasını bekleyin.
-4.  **Dosyanı Bul:** İndirme tamamlandığında, dosyanız programın (`.exe`) bulunduğu klasörde oluşturulacaktır.
+1.  **Paste Link:** Paste the link of the video or music you want to download into the "Video URL'si" box.
+2.  **Select Option:** Choose how you want to download (Video + Audio, Audio Only, etc.).
+3.  **Click Download:** Press the "İndir" button and wait for the process to complete.
+4.  **Find Your File:** When the download is complete, your file will be created in the same folder as the program (`.exe`).
 
-## Özellikler
+## Features
 
--   YouTube, Twitter, Instagram gibi yüzlerce platformdan indirme desteği.
--   **Video + Ses** olarak birleştirilmiş (MP4) indirme.
--   **Sadece Ses** (Yüksek Kaliteli MP3) olarak indirme.
--   **Sadece Ses** (Orijinal Format - Maksimum Kalite) olarak indirme.
--   **Sadece Video** (Sessiz) olarak indirme.
--   Özel karakter içeren başlıklar için otomatik dosya adı temizleme.
+-   **Broad Platform Support:** Download from YouTube (including Shorts, Music), TikTok, Twitch, Kick, Instagram, Twitter, Facebook, Reddit, and hundreds of other sites.
+-   Download combined **Video + Audio** (MP4).
+-   Download **Audio Only** (High-Quality MP3).
+-   Download **Audio Only** (Original Format - Maximum Quality).
+-   Download **Video Only** (Silent).
+-   Automatic filename sanitization for titles with special characters.
 
-## Geliştiriciler İçin Gereksinimler (Kodu Çalıştırmak İçin)
+## Requirements for Developers (To Run the Code)
 
 -   Python 3.x
--   Gerekli kütüphaneler: `pip install yt-dlp`
--   Video birleştirme ve format dönüştürme için **FFmpeg**.
+-   Required libraries: `pip install yt-dlp`
+-   **FFmpeg** for merging video and converting audio formats.
 
 ---
 
-### YASAL UYARI
+### DISCLAIMER
 
-Bu araç, kişisel ve eğitim amaçlı geliştirilmiştir. Bu programı kullanarak indirdiğiniz içeriklerin telif haklarına saygı göstermek tamamen kullanıcının sorumluluğundadır. YouTube ve diğer platformların hizmet şartlarını ihlal edecek şekilde kullanmayınız. Geliştirici, programın kötüye kullanılmasından doğacak hiçbir yasal sonuçtan sorumlu tutulamaz.
+This tool has been developed for personal and educational purposes. The user is solely responsible for respecting the copyrights of the content they download. Do not use this tool in a way that violates the terms of service of YouTube or other platforms. The developer cannot be held responsible for any legal consequences arising from the misuse of this program.

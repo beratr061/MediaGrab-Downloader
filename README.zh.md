@@ -22,12 +22,11 @@ _您可以在此处上传您的程序截图并放置链接。_
 
 ## 功能
 
--   支持从 YouTube、Twitter、Instagram 等数百个平台下载。
+-   **广泛的平台支持：** 支持从 YouTube (包括 Shorts, Music), TikTok, Twitch, Kick, Instagram, Twitter, Facebook, Reddit 等数百个网站下载。
 -   下载合并的 **视频 + 音频** (MP4)。
 -   下载 **仅音频** (高品质 MP3)。
 -   下载 **仅音频** (原始格式 - 最高质量)。
 -   下载 **仅视频** (无声)。
--   为包含特殊字符的标题自动清理文件名。
 
 ## 开发者要求 (运行代码)
 

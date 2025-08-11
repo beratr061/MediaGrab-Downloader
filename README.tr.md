@@ -22,7 +22,7 @@ _Buraya programının bir ekran görüntüsünü yükleyip linkini koyabilirsin.
 
 ## Özellikler
 
--   YouTube, Twitter, Instagram gibi yüzlerce platformdan indirme desteği.
+-   **Geniş Platform Desteği: YouTube (Shorts, Music dahil), TikTok, Twitch, Kick, Instagram, Twitter, Facebook, Reddit ve yüzlerce başka siteden indirme.**
 -   **Video + Ses** olarak birleştirilmiş (MP4) indirme.
 -   **Sadece Ses** (Yüksek Kaliteli MP3) olarak indirme.
 -   **Sadece Ses** (Orijinal Format - Maksimum Kalite) olarak indirme.
