@@ -10,8 +10,9 @@
 
 Python, Tkinter ve yt-dlp kullanılarak geliştirilmiş, çok platformlu ve çok formatlı bir video/ses indirme uygulamasıdır.
 
-![Uygulama Ekran Görüntüsü](https://i.imgur.com/your-screenshot-url.png)
-_Buraya programının bir ekran görüntüsünü yükleyip linkini koyabilirsin._
+## Ekran Görüntüleri
+![Ana Arayüz](https://i.imgur.com/rYopdt1.png)
+![Desteklenen Platformlar](https://i.imgur.com/4uzInzr.png)
 
 ## Kullanım
 
@@ -22,7 +23,7 @@ _Buraya programının bir ekran görüntüsünü yükleyip linkini koyabilirsin.
 
 ## Özellikler
 
--   **Geniş Platform Desteği: YouTube (Shorts, Music dahil), TikTok, Twitch, Kick, Instagram, Twitter, Facebook, Reddit ve yüzlerce başka siteden indirme.**
+-   **Geniş Platform Desteği:** YouTube (Shorts, Music dahil), TikTok, Twitch, Kick, Instagram, Twitter, Facebook, Reddit ve yüzlerce başka siteden indirme.
 -   **Video + Ses** olarak birleştirilmiş (MP4) indirme.
 -   **Sadece Ses** (Yüksek Kaliteli MP3) olarak indirme.
 -   **Sadece Ses** (Orijinal Format - Maksimum Kalite) olarak indirme.
