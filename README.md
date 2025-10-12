@@ -16,14 +16,16 @@ A modern, cross-platform video and audio downloader with a beautiful user interf
 ### Windows
 
 **Installer (Recommended)**
-- Download `MediaGrab-Setup-v2.0.exe`
+- [Download MediaGrab-Setup-v2.0.exe](https://github.com/beratr061/MediaGrab-Downloader/releases/download/v2.0/MediaGrab-Setup-v2.0.exe) (161 MB)
 - Run the installer
 - Launch from desktop shortcut
 
 **Portable Version**
-- Download `MediaGrab-Portable.zip`
+- [Download MediaGrab-Portable.zip](https://github.com/beratr061/MediaGrab-Downloader/releases/download/v2.0/MediaGrab-Portable.zip) (219 MB)
 - Extract and run `mediagrab_flutter.exe`
 - No installation required
+
+> **Note**: Download links will be available after creating a release on GitHub.
 
 ## System Requirements
 
@@ -52,8 +54,8 @@ A modern, cross-platform video and audio downloader with a beautiful user interf
 
 ```bash
 # Clone the repository
-git clone <repository-url>
-cd mediagrab_flutter
+git clone https://github.com/beratr061/MediaGrab-Downloader.git
+cd MediaGrab-Downloader
 
 # Install dependencies
 flutter pub get

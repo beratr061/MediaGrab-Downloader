@@ -1,7 +1,7 @@
 #define MyAppName "MediaGrab"
 #define MyAppVersion "2.0"
 #define MyAppPublisher "MediaGrab"
-#define MyAppURL "https://github.com/mediagrab/mediagrab"
+#define MyAppURL "https://github.com/beratr061/MediaGrab-Downloader"
 #define MyAppExeName "mediagrab_flutter.exe"
 
 [Setup]
